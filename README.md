@@ -1,6 +1,6 @@
 # Robotic Manipulation of Transparent Objects
 ## Transparent Object Dataset (TOD)
-The dataset used for this experiment can be found at https://sites.google.com/view/keypose 
+The dataset used for this project can be found at https://sites.google.com/view/keypose 
 ## KeyPose
 The code for KeyPose was used for all of the experiments. It can be found at https://github.com/google-research/google-research/tree/master/keypose
 The main modifications were to gen_tfrecords.py, predict.py and trainer.py. For the architecture changes the code for estimator.py, inputs.py, nets.py and trainer.py were changed. 
